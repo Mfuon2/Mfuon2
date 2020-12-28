@@ -13,10 +13,11 @@
 
 
 <br />
+<h1 align="center">
+Languages and Tools:
+</h1>
 
-### Languages and Tools:
-
-<p align="left">
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node" width="50" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="50" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="50" height="22"/> 
