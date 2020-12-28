@@ -1,5 +1,5 @@
 ### Hi there 👋
-## [![Mfuon's Header](https://github.com/mfuon2/mfuon2/blob/master/img/header.jpg)](https://ryztek.com)
+## [![Mfuon's Header](https://github.com/mfuon2/mfuon2/blob/master/img/header.png)](https://ryztek.com)
 <!--
 **Mfuon2/Mfuon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
