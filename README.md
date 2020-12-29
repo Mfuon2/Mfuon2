@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mfuon</h1>
 <h3 align="center">A self-taught programmer</h3>
 
-<p align="center>
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/mfuon?label=mfuon&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/mfuon2?logo=GitHub&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/stars/mfuon2?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/sponsors/mfuon2?style=for-the-badge)
-
-</p>
-
-<p align="center>
 
  🔭 I’m currently working on almond 
 
@@ -18,18 +12,11 @@
 
  👯 I’m looking to collaborate with **other developers around the world**
 
-</p>
 <br />
 
-
-
-<p align="center">
-
 ### Languages and Tools:
-</p>
 
-<p align="center">
-
+<p align="left">
 <br>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node" width="50" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="50" height="22"/> 
@@ -44,21 +31,20 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> 
 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfuon2&hide=html&theme=radical&langs_count=7" alt="mfuon2" /></p>
 
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfuon2&show_icons=true" alt="mfuon2" /></p>
+### Github Stats
 
-<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfuon2&hide=html&theme=radical&langs_count=7" alt="mfuon2" />
+
+### Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfuon2&show_icons=true" alt="mfuon2" />
+
 
 ### Work time from Wakatime
-<br>
 
 [![Mfuon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mFuon)](https://github.com/mfuon2/github-readme-stats)
 
 <br>
-<p align="center">
+<p align="left">
 :fire: :fire: :fire:
 </p>
-
-
