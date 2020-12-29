@@ -1,23 +1,36 @@
 <h1 align="center">Hi 👋, I'm Mfuon</h1>
 <h3 align="center">A self-taught programmer</h3>
 
+<p align="center>
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/mfuon?label=mfuon&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/mfuon2?logo=GitHub&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/stars/mfuon2?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/sponsors/mfuon2?style=for-the-badge)
 
-- 🔭 I’m currently working on almond 
+</p>
 
-- 🌱 I’m currently learning **Flutter**
+<p align="center>
 
-- 👯 I’m looking to collaborate with **other developers around the world**
+ 🔭 I’m currently working on almond 
 
+ 🌱 I’m currently learning **Flutter**
 
+ 👯 I’m looking to collaborate with **other developers around the world**
 
+</p>
 <br />
-<h1 align="center">
-Languages and Tools:
-</h1>
+
+
 
 <p align="center">
+
+### Languages and Tools:
+</p>
+
+<p align="center">
+
+<br>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="node" width="50" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="50" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="50" height="22"/> 
@@ -31,23 +44,21 @@ Languages and Tools:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> 
 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfuon2&layout=compact&hide=html" alt="mfuon2" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfuon2&hide=html&theme=radical&langs_count=7" alt="mfuon2" /></p>
 
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfuon2&show_icons=true" alt="mfuon2" /></p>
 
+<br><br>
+
+### Work time from Wakatime
+<br>
+
+[![Mfuon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mFuon)](https://github.com/mfuon2/github-readme-stats)
+
+<br>
+<p align="center">
+:fire: :fire: :fire:
+</p>
 
 
-<!--
-**Mfuon2/Mfuon2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
