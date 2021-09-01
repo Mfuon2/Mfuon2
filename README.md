@@ -15,7 +15,6 @@
 
  :100:  looking to collaborate with **other developers around the world**
  
- :100: REF:: https://almondhydroponics.com/
  
  ## Experience 
  
