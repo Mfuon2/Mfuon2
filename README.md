@@ -19,7 +19,7 @@
  ## Experience 
  
   - Back-end Development with Java, Kotlin, C#, and Nodejs 
-  - Front-end Development with Angular2+, HTML5 SCSS, Express.js
+  - Front-end Development with Angular2+, React(React Hooks), HTML5 SCSS, Express.js
   - Unit Testing Development  Jest, Jasmine, JUnit and Mockito 
   - Solution implementation with Reactive Micro-service Architecture 
   - Deployments with AWS Cloud and Azure Architecture | CI/CD with git pipelines
