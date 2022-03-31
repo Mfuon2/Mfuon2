@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mfuon 
 
-#### A full-stack software engineer and a self-taught programmer, specialising in rapid development of custom entreprise systems and API microservices.
+#### A full-stack software engineer and a self-taught programmer, specialising in rapid development of custom entreprise systems, websockets, analytics dashboards and reactive API microservices.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mfuon?label=mfuon&logo=twitter&style=for-the-badge&logoColor=white&color=2bbc8a)
 ![GitHub followers](https://img.shields.io/github/followers/mfuon2?logo=GitHub&style=for-the-badge&logoColor=white&color=2bbc8a)
@@ -33,7 +33,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://githubmemory.com/@Mfuon2)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://githubmemory.com/@Mfuon2)*
 
 ## &#x1f4c8; GitHub Stats
 
