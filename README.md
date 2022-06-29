@@ -9,10 +9,6 @@
 ![IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![WEBSTORM](https://img.shields.io/badge/Editor-webstorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=2bbc8a)
 
- :fire: I’m currently working on almond smart firm **_ 🅰🅻🅼🅾🅽🅳 _**
-
- :fire: I’m currently learning **Flutter**
-
  :100:  looking to collaborate with **other developers around the world**
  
  
@@ -22,7 +18,7 @@
   - Front-end Development with Angular2+, React(React Hooks), HTML5 SCSS, Express.js
   - Unit Testing Development  Jest, Jasmine, JUnit and Mockito 
   - Solution implementation with Reactive Micro-service Architecture 
-  - Deployments with AWS Cloud and Azure Architecture | CI/CD with git pipelines
+  - Deployments with AWS Cloud and Azure Architecture | CI/CD with gitlab/bitbucket/github pipelines
 
 <br />
 
