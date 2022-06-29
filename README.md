@@ -43,7 +43,7 @@
 
 ## Work time from Wakatime
 
-[![Mfuon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mFuon&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://githubmemory.com/@Mfuon2)
+[![wakatime](https://wakatime.com/badge/user/a706ad3c-5a70-423d-a239-e0a6482a9ba0.svg)](https://wakatime.com/@a706ad3c-5a70-423d-a239-e0a6482a9ba0)
 
 <br>
 <p align="left">
