@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mfuon 
 
-#### A full-stack software engineer and a self-taught programmer, specialising in rapid development of custom entreprise systems, websockets, analytics dashboards and reactive API microservices.
+#### A full-stack software engineer, specialising in rapid development of custom entreprise systems, websockets, analytics dashboards and reactive APIs and microservices.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mfuon?label=mfuon&logo=twitter&style=for-the-badge&logoColor=white&color=2bbc8a)
 ![GitHub followers](https://img.shields.io/github/followers/mfuon2?logo=GitHub&style=for-the-badge&logoColor=white&color=2bbc8a)
