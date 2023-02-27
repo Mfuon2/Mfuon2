@@ -14,11 +14,15 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
-          BLOCKS: ->
+          SHOW_LANGUAGE: true
+          SHOW_EDITORS: true
+          SYMBOL_VERSION: 3
+          DEBUG_LOGGING: true
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
+          LANG_COUNT: 100
 
           
