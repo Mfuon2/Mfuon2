@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Mfuon 
 
-#### A full-stack software engineer, specialising in rapid development of custom entreprise systems, websockets, analytics dashboards and reactive APIs and microservices.
+#### an experienced full-stack software engineer/architect/coach, specialising in rapid development of custom entreprise systems, websockets, analytics dashboards and reactive APIs and microservices.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/mfuon?label=mfuon&logo=twitter&style=for-the-badge&logoColor=white&color=2bbc8a)
 ![GitHub followers](https://img.shields.io/github/followers/mfuon2?logo=GitHub&style=for-the-badge&logoColor=white&color=2bbc8a)
@@ -34,7 +34,7 @@
 </a>
 
 
-## Work time from Wakatime
+## Timestamps
 
 Click to view overal tracked time 
 
@@ -42,7 +42,4 @@ Click to view overal tracked time
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/mfuon/book-session.svg)](https://www.codementor.io/@mfuon?refer=badge)
 
-<br>
-<p align="left">
-:fire: :fire: :fire:
-</p>
+
