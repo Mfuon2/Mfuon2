@@ -2,13 +2,6 @@
 
 #### an experienced full-stack software engineer/architect/coach, specialising in rapid development of custom entreprise systems, websockets, analytics dashboards and reactive APIs and microservices.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/mfuon?label=mfuon&logo=twitter&style=for-the-badge&logoColor=white&color=2bbc8a)
-![GitHub followers](https://img.shields.io/github/followers/mfuon2?logo=GitHub&style=for-the-badge&logoColor=white&color=2bbc8a)
-![GitHub stars](https://img.shields.io/github/stars/mfuon2?style=for-the-badge&logoColor=white&color=2bbc8a)
-![OS](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
-![IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![WEBSTORM](https://img.shields.io/badge/Editor-webstorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=2bbc8a)
-
  :100:  looking to collaborate with **other developers around the world**
  
  [![Contact me on Codementor](https://www.codementor.io/m-badges/mfuon/im-a-cm-b.svg)](https://www.codementor.io/@mfuon?refer=badge)
@@ -41,5 +34,14 @@ Click to view overal tracked time
 [![wakatime](https://wakatime.com/badge/user/a706ad3c-5a70-423d-a239-e0a6482a9ba0.svg)](https://wakatime.com/@a706ad3c-5a70-423d-a239-e0a6482a9ba0)
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/mfuon/book-session.svg)](https://www.codementor.io/@mfuon?refer=badge)
+
+## Misc
+
+![Twitter Follow](https://img.shields.io/twitter/follow/mfuon?label=mfuon&logo=twitter&style=for-the-badge&logoColor=white&color=2bbc8a)
+![GitHub followers](https://img.shields.io/github/followers/mfuon2?logo=GitHub&style=for-the-badge&logoColor=white&color=2bbc8a)
+![GitHub stars](https://img.shields.io/github/stars/mfuon2?style=for-the-badge&logoColor=white&color=2bbc8a)
+![OS](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+![IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![WEBSTORM](https://img.shields.io/badge/Editor-webstorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=2bbc8a)
 
 
