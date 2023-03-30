@@ -36,10 +36,11 @@
 
 ## Work time from Wakatime
 
-Click to view overal tracked time [![wakatime](https://wakatime.com/badge/user/a706ad3c-5a70-423d-a239-e0a6482a9ba0.svg)](https://wakatime.com/@a706ad3c-5a70-423d-a239-e0a6482a9ba0)
+Click to view overal tracked time 
 
+[![wakatime](https://wakatime.com/badge/user/a706ad3c-5a70-423d-a239-e0a6482a9ba0.svg)](https://wakatime.com/@a706ad3c-5a70-423d-a239-e0a6482a9ba0)
 
- [![Contact me on Codementor](https://www.codementor.io/m-badges/mfuon/book-session.svg)](https://www.codementor.io/@mfuon?refer=badge)
+[![Contact me on Codementor](https://www.codementor.io/m-badges/mfuon/book-session.svg)](https://www.codementor.io/@mfuon?refer=badge)
 
 <br>
 <p align="left">
