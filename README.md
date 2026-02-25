@@ -1,22 +1,85 @@
-## Hi 👋, I'm Mfuon 
+# Mfuon Leonard
 
-#### an experienced full-stack software engineer/architect/coach, specialising in rapid development of custom entreprise systems, websockets, analytics dashboards and reactive APIs and microservices.
+## Lead Software Engineer • Distributed Systems • Cloud-Native Architect • GenAI Platforms
 
- :100:  looking to collaborate with **other developers around the world**
- 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/mfuon/find-me-on-cm-g.svg)](https://www.codementor.io/@mfuon?refer=badge)
- 
- ## Experience 
- 
-  - Back-end Development with Java, Kotlin, C#, and Nodejs 
-  - Front-end Development with Angular2+, React(React Hooks), HTML5 SCSS, Express.js
-  - Unit Testing Development  Jest, Jasmine, JUnit and Mockito 
-  - Solution implementation with Reactive Micro-service Architecture 
-  - Deployments with AWS Cloud and Azure Architecture | CI/CD with gitlab/bitbucket/github pipelines
+I architect and deliver **mission-critical, large-scale systems** powering real-world platforms across cloud, data, and AI domains.
 
-<br />
+My work focuses on building secure, resilient, and high-performance systems designed for **massive scale, long-term stability, and production excellence**.
 
-## &#x1f4c8; GitHub Stats
+Currently operating at Senior / Lead level with Staff Engineer scope across architecture, technical strategy, and cross-team leadership.
+
+---
+
+## 🧠 Areas of Expertise
+
+### 🏗️ Distributed Systems & Cloud Architecture
+- Large-scale cloud-native system design (AWS / Azure)
+- Reactive microservices & event-driven architectures
+- High-availability and fault-tolerant systems (99.9%+ uptime)
+- Data-intensive platforms and real-time processing
+- Complex enterprise integrations across distributed environments
+
+### 🤖 AI & Next-Generation Platforms
+- GenAI system design:
+  - LLM orchestration
+  - Vector databases
+  - Agentic workflows
+- AI-assisted engineering and automation pipelines
+- Responsible AI governance (safety, cost, reliability)
+
+### ⚙️ Backend & Platform Engineering
+- Kotlin, Java, C#, Node.js
+- High-throughput APIs and backend platforms
+- Observability, reliability engineering, performance optimization
+- Multi-tenant and financial-grade systems
+
+### 🖥️ Full-Stack Systems
+- Angular, React, Vuejs
+- Real-time analytics dashboards
+- WebSocket-driven platforms
+- Modern frontend architectures
+
+---
+
+## 🧩 Technical Leadership
+
+- Architecture ownership for high-complexity initiatives  
+- Defining long-term technical strategy  
+- Mentoring engineers across experience levels  
+- Leading high-impact engineering pods  
+- Establishing production-grade engineering standards  
+
+I focus on delivering systems that are not only functional — but **resilient, scalable, observable, and future-proof**.
+
+---
+
+## 🌍 Engineering Philosophy
+
+> Build systems that survive scale, failure, and time.
+
+Core principles:
+
+- Reliability over novelty  
+- Simplicity at scale  
+- Security by design  
+- Performance as a feature  
+- Automation as leverage  
+
+---
+
+## 🚀 Collaboration & Interests
+
+I’m interested in collaborating on:
+
+- Distributed systems
+- AI infrastructure & platforms
+- FinTech and real-time trading systems
+- High-scale backend platforms
+- Innovative open-source infrastructure
+
+---
+
+## 📊 GitHub Metrics
 
 <a href="https://githubmemory.com/@Mfuon2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mfuon2&hide=php,javascript,html,CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7&line_height=27&count_private=true" />
@@ -25,22 +88,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mfuon2&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mfuon's GitHub Stats" />
 </a>
 
+---
 
-## Timestamps
-
-Click to view overal tracked time 
+## ⏱️ Development Activity
 
 [![wakatime](https://wakatime.com/badge/user/a706ad3c-5a70-423d-a239-e0a6482a9ba0.svg)](https://wakatime.com/@a706ad3c-5a70-423d-a239-e0a6482a9ba0)
 
-[![Contact me on Codementor](https://www.codementor.io/m-badges/mfuon/book-session.svg)](https://www.codementor.io/@mfuon?refer=badge)
+---
 
-## Misc
+## 🤝 Connect
 
-![Twitter Follow](https://img.shields.io/twitter/follow/mfuon?label=mfuon&logo=twitter&style=for-the-badge&logoColor=white&color=2bbc8a)
-![GitHub followers](https://img.shields.io/github/followers/mfuon2?logo=GitHub&style=for-the-badge&logoColor=white&color=2bbc8a)
-![GitHub stars](https://img.shields.io/github/stars/mfuon2?style=for-the-badge&logoColor=white&color=2bbc8a)
-![OS](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
-![IDEA](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![WEBSTORM](https://img.shields.io/badge/Editor-webstorm-informational?style=for-the-badge&logo=webstorm&logoColor=white&color=2bbc8a)
+[![Codementor](https://www.codementor.io/m-badges/mfuon/book-session.svg)](https://www.codementor.io/@mfuon?refer=badge)
+[![Follow on X](https://img.shields.io/badge/X-@mfuon-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mfuon)
+[![Email](https://img.shields.io/badge/Email-mfolee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfolee@gmail.com)
 
-
+---
