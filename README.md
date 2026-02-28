@@ -92,6 +92,8 @@ I’m interested in collaborating on:
 
 ## ⏱️ Development Activity
 
+[![Mfuon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mfuon2&bg_color=ffffff&color=000000&line=19c235&point=068929&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![wakatime](https://wakatime.com/badge/user/a706ad3c-5a70-423d-a239-e0a6482a9ba0.svg)](https://wakatime.com/@a706ad3c-5a70-423d-a239-e0a6482a9ba0)
 
 ---
